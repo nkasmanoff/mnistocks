@@ -38,7 +38,9 @@ Figures to Include
 
 Model Image of Lenet 5 (or whatever )
 
-Picture of postive stock
+![5% return on investment](https://github.com/nkasmanoff/mnistocks/blob/master/AAPLfor10days%255.0on2013-3-9SENTAVG%3D-0.09SENTSTD%3D2.81.png)
+
+
 picture of negative stock
 
 image of MNIST
