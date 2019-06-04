@@ -43,3 +43,10 @@ Including this final part into the last Dense layer of the network, such trainin
 
 I'll quickly disclaim this sentiment data was pulled from the free version, which is only over 2012-2016. In order to use current sentiment values, a paid version or novelly generated one were required, which was not the priority to this point. 
 
+
+
+# Code Execution
+
+  To collect data, run python noahtrader.py from your command line, changing the path to wherever you'd like to store these images. 
+  
+  To train model, run python noahmodel.py from the command line as well, again editting the path, and you'll see how the training performs on a validation set. 
